@@ -1,0 +1,39 @@
+.nav-image img{
+      width: 140px;
+}
+.nav-container{
+      display: flex;
+      justify-content: space-between;
+      height: 80px;
+      align-items: center;
+      position: sticky;
+    
+}
+
+.nav-item .login{
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: 500;
+      color: black;
+      /* margin-left: 25px; */
+      margin-right: 25px;
+}
+.cart-icon{
+      font-size: 24px;
+      margin-right: 20px;
+      color: rgb(215, 60, 60);
+}
+.nav-item .sing-up-btn{
+      color: #ffffff;
+      background-color: rgb(215, 60, 60);
+      padding: 7px 15px;
+      border-radius: 20px;
+      text-decoration: none;
+}
+.singout{
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: 500;
+      color: black;
+      
+}

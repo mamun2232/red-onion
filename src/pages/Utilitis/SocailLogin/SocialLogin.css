@@ -1,0 +1,35 @@
+.main .or{
+      height: 1px;
+      width: 100%;
+      background-color: rgb(218, 226, 234);
+      margin-top: 12px;
+}
+.main{
+      display: flex;
+     
+      
+}
+.main p{
+    padding: 0px 10px;
+   
+}
+.google  {
+      font-size: 40px;
+      margin: 0px 8px;
+}
+.facebook{
+      font-size: 40px;
+      margin: 0px 8px;
+}
+.github{
+      font-size: 40px;
+      margin: 0px 8px;
+}
+
+
+
+.login-icon{
+      display: flex;
+      justify-content: center;
+     
+}

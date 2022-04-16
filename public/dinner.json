@@ -1,0 +1,71 @@
+[
+      {
+        "id": 1,
+        "category": "Verry testy food",
+        "name": "Egg Fry",
+        "price": 120,
+        "ratings": 4,
+        "img": "https://i.ibb.co/6HF0vr2/dinner1.png",
+        "shipping": 1,
+        "quantity": 0
+      },
+      {
+        "id": 2,
+        "category": "Verry testy food",
+        "name": "Japani Beard",
+        "price": 130,
+     
+        "ratings": 5,
+     
+        "img": "https://i.ibb.co/XpSsQmH/dinner2.png",
+        "shipping": 14,
+        "quantity": 0
+      },
+      {
+        "id": 3,
+        "category": "Verry testy food",
+        "name": "Chicken Pasta",
+        "price": 140,
+        "stock": 20,
+        "ratings": 4,
+        
+        "img": "https://i.ibb.co/fY34cMb/dinner3.png",
+        "shipping": 1,
+        "quantity": 0
+      },
+      {
+        "id": 4,
+        "category": "Verry testy food",
+        "name": "Special Indian Bread",
+        "seller": "Addidas",
+        "price": 160,
+      
+        "ratings": 5,
+    
+        "img": "https://i.ibb.co/Lr3WRnY/dinner4.png",
+        "shipping": 32,
+        "quantity": 0
+      },
+      {
+        "id": 5,
+        "category": "Verry testy food",
+        "name": "Chicken Bread ",
+        "price": 110,
+        "ratings": 4,
+       
+        "img": "https://i.ibb.co/ngXY1fS/dinner5.png",
+        "shipping": 49,
+        "quantity": 0
+      },
+      {
+        "id": 6,
+        "category": "Verry testy food",
+        "name": "Egg and Bread ",
+        "price": 70,
+        "ratings": 4,
+       
+        "img": "https://i.ibb.co/McBCcy4/dinner6.png",
+        "shipping": 49,
+        "quantity": 0
+      }
+]

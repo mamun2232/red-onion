@@ -1,0 +1,47 @@
+.login-img img{
+      width: 220px;
+}
+.login-img{
+      margin: 20px 0px;
+   
+}
+.login-container{
+      width: 550px;
+      border: 1px solid lavender;
+      margin: 0 auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+     height: 600px;
+      
+}
+.from-text{
+      margin-top: 20px;
+}
+.from-text input:not([type=checkbox]){
+      width: 350px;
+      height: 45px;
+      margin: 8px 0px;
+      border-radius: 7px;
+      border: 1px solid lavender;
+      padding: 0px 7px;
+}
+
+.submit-btn{
+      color: #ffff;
+      background-color:  rgb(215, 60, 60);
+      font-weight: 500;
+}
+span a{
+      text-decoration: none;
+      color: rgb(215, 60, 60);
+}
+.submit-btns{
+      color: #ffff;
+      background-color:  rgb(243, 44, 44);
+      font-weight: 500;
+}
+
+.forgatepass{
+      cursor: pointer;
+}
